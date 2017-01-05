@@ -1,0 +1,6 @@
+D:\csharpProject\simulationVerTwo\simulationVerTwo\bin\Debug\simulationVerTwo.exe.config
+D:\csharpProject\simulationVerTwo\simulationVerTwo\bin\Debug\simulationVerTwo.exe
+D:\csharpProject\simulationVerTwo\simulationVerTwo\bin\Debug\simulationVerTwo.pdb
+D:\csharpProject\simulationVerTwo\simulationVerTwo\obj\Debug\simulationVerTwo.exe
+D:\csharpProject\simulationVerTwo\simulationVerTwo\obj\Debug\simulationVerTwo.pdb
+D:\csharpProject\simulationVerTwo\simulationVerTwo\obj\Debug\simulationVerTwo.csprojResolveAssemblyReference.cache
